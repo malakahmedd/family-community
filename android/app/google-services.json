@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "502451840574",
+    "project_id": "myfirstproj-9aaf3",
+    "storage_bucket": "myfirstproj-9aaf3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502451840574:android:a96e971278bd3b88e1536f",
+        "android_client_info": {
+          "package_name": "com.example.gradproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502451840574-gerf13sjs7neotppjq932t9ipjrkfp2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYSW8EFTNtxdjF1sTY1Pho1NZtXCOsDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502451840574-gerf13sjs7neotppjq932t9ipjrkfp2f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502451840574-58cjbfuo959rinvsj41v05b8uh8us6bl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502451840574:android:07a3b6d1f998e9b4e1536f",
+        "android_client_info": {
+          "package_name": "com.example.lola_gradproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502451840574-gerf13sjs7neotppjq932t9ipjrkfp2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYSW8EFTNtxdjF1sTY1Pho1NZtXCOsDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502451840574-gerf13sjs7neotppjq932t9ipjrkfp2f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502451840574-58cjbfuo959rinvsj41v05b8uh8us6bl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradproj"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502451840574:android:d0c5f48eb015cf3ce1536f",
+        "android_client_info": {
+          "package_name": "com.example.search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502451840574-gerf13sjs7neotppjq932t9ipjrkfp2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsYSW8EFTNtxdjF1sTY1Pho1NZtXCOsDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502451840574-gerf13sjs7neotppjq932t9ipjrkfp2f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "502451840574-58cjbfuo959rinvsj41v05b8uh8us6bl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.gradproj"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
